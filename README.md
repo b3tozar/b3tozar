@@ -14,5 +14,6 @@ Based in Mexico, I get my greatest thrill from collaborating on creating and mai
 
 <!-- - [add my email here] -->
 - [LinkedIn](https://linkedin.com/in/betozar)
-- [My blog at DEV.to](https://dev.to/b3tozar)
 - [X - Twitter](https://x.com/b3tozar)
+- [My blog at dev.to](https://dev.to/b3tozar)
+- [YouTube Channel](https://www.youtube.com/@b3tozar)
