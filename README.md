@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Alberto Monraz 🇲🇽
 
-<!--
-**b3tozar/b3tozar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in Mexico, I get my greatest thrill from collaborating on creating and maintaining products. I believe in providing real value to customers by crafting high-quality solutions. I'm a dynamic problem-solver, constantly curious, and always expanding my skill set with new technologies and workflows.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✍️ Writing & Sharing: I love writing articles explaining how things works in a really simple way.
+- 🌐 Web Enthusiast: I'm really passionate for building applications using TypeScript and othe web technologies.
+- 🔍 Deep-Dive Learner: I have a deep curiosity for understanding how things works for creating new features on top of it.
+- 🚀 Feature Developer: I get immense satisfaction from designing, implementing, and shipping new features that provide real user value.
+- 🤝 Collaborative Builder: I really like being involved in the entire product creation process, from initial idea to final deployment.
+
+## 📫 Contact Me 
+
+<!-- - [add my email here] -->
+- [LinkedIn](https://linkedin.com/in/betozar)
+- [My blog at DEV.to](https://dev.to/b3tozar)
+- [X - Twitter](https://x.com/b3tozar)
